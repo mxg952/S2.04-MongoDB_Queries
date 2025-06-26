@@ -1,4 +1,4 @@
-# MongoDB NYC Restaurants Queries
+# S2.04 - Mongo DB - Queries
 
 This project is part of a backend development course using **MongoDB** and **MongoDB Compass**.
 
